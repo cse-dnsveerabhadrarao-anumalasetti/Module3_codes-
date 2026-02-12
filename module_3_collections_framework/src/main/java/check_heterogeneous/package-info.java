@@ -1,0 +1,7 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+package check_heterogeneous;
